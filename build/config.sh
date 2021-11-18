@@ -23,10 +23,10 @@ CONFIGDIR="/usr/share/clusterhat"
 PASSWORD=raspberry
 
 # Enable SSH
-ENABLESSH=0
+ENABLESSH=1
 
 # Enable auto serial login
-SERIALAUTOLOGIN=0
+SERIALAUTOLOGIN=1
 
 # Do we run dist-upgrade?
 UPGRADE=1
